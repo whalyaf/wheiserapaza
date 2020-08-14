@@ -1,0 +1,117 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<div class="ui raised very padded text container segment center aligned" style="border-radius:10px;">
+    <h4 class="ui dividing header"><i class="ellipsis horizontal icon"></i>SISTEMA DE FACTURACIÓN ELECTRÓNICA</h4>
+    <br />
+    <div class="ui placeholder segment">
+        <div class="ui very relaxed stackable grid">
+            <div class="column">
+                <form action="#" class="ui form" autocomplete="off">
+                    <div class="field">
+                        <div class="ui accordion field">
+                            @*<div class="title active">
+                                    <i class="setting icon"></i>
+                                </div>
+                                <div class="content field active">
+                                    <div class="column">
+                                        <div class="ui test slider checkbox">
+                                            <input type="checkbox" checked="">
+                                            <label></label>
+                                        </div>
+                                    </div>
+                                </div>*@
+                            <br />
+                            <div class="field">
+                                <div class="ui left icon input">
+                                    <input type="text" id="txtUsuario" class="transition visible" style="display: inline-block !important;">
+                                    <i class="circular user icon"></i>
+                                </div>
+                            </div>
+                            <div class="field">
+                                <div class="ui left icon input">
+                                    <input type="password" id="txtPassword" class="transition visible" style="display: inline-block !important;">
+                                    <i class="circular lock icon"></i>
+                                </div>
+                            </div>
+                            <br />
+                            <button id="SaveForm" class="ui aligned blue button small"><i class="sign in icon"></i>Ingresar al Sistema</button>
+                            <br />
+                            <br />
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="ui steps">
+  <div class="step">
+    <i class="truck icon"></i>
+    <div class="content">
+      <div class="title">Shipping</div>
+      <div class="description">Choose your shipping options</div>
+    </div>
+  </div>
+  <div class="active step">
+    <i class="payment icon"></i>
+    <div class="content">
+      <div class="title">Billing</div>
+      <div class="description">Enter billing information</div>
+    </div>
+  </div>
+  <div class="disabled step">
+    <i class="info icon"></i>
+    <div class="content">
+      <div class="title">Confirm Order</div>
+    </div>
+  </div>
+</div>
+
+<script src="~/Scripts/jquery-3.5.1.js"></script>
+<script>
+    $("#SaveForm").click(function (e) {
+        event.preventDefault(e);
+
+        data = JSON.stringify({
+            ADMUSUARIO: $("#txtUsuario").val(),
+            ADMCLAVE: $("#txtPassword").val(),
+        });
+
+        $.ajax({
+            contentType: 'application/json; charset=utf-8',
+            dataType: 'json',
+            type: "POST",
+            url: "@Url.Action("Login", "Login")",
+            data: data,
+            success: function (response) {
+                console.log(response);
+                if (response == true) {
+                    Swal.fire({
+                        icon: 'success',
+                        title: 'Exito!',
+                        showConfirmButton: false,
+                        timer: 1500
+                    });
+                }
+                else {
+                    Swal.fire({
+                        icon: 'error',
+                        title: 'Usuario y/o Contraseña Incorrecta(s). ¡Intentelo nuevamente!',
+                        showConfirmButton: false,
+                        timer: 2500
+                    });
+                }
+            }
+        });
+    });
+</script>

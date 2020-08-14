@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactElectronicaV1", "FactElectronicaV1.csproj", "{5CA07EC0-85FF-4BF0-AB20-64BA7FBC5D30}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0. Infraestructure Tier", "0. Infraestructure Tier", "{A762630C-BAF0-41FD-ADF6-C2C0648F4234}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Entities Tier", "1. Entities Tier", "{CA5F7739-7DCD-4D07-AE8C-1CD69B0856E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Business Tier", "2. Business Tier", "{CD892526-D0D1-4841-92DB-36F10814D327}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Presentation Tier", "4. Presentation Tier", "{74F988A1-2F81-4645-99FC-DBA82B1E8DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactElectronicaV1.Entities", "..\FactElectronicaV1.Entities\FactElectronicaV1.Entities.csproj", "{7D04F5A3-FA16-491C-8410-F6BA3B23EABF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.1 DataAccess Layer", "2.1 DataAccess Layer", "{60F7D7BA-200E-451C-95AF-8A53CF241F72}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.2 BusinessLogic Layer", "2.2 BusinessLogic Layer", "{2CF6653E-E207-40D5-9472-5A692364774B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactElectronicaV1.DataAccess", "..\FactElectronicaV1.DataAccess\FactElectronicaV1.DataAccess.csproj", "{074E410A-ED53-49D1-9A11-B1CC3FC005FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactElectronicaV1.BusinessLogic", "..\FactElectronicaV1.BusinessLogic\FactElectronicaV1.BusinessLogic.csproj", "{C9369740-5130-4500-BFE9-47CE0ADC6100}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Service Tier", "3. Service Tier", "{8F62A32E-EB0A-44C9-AC21-42972DBAFEBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactElectronicaV1.ServiceClient", "..\FactElectronicaV1.ServiceClient\FactElectronicaV1.ServiceClient.csproj", "{73E53294-BAAA-4803-A12E-FDD1079CB55A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactElectronicaV1.Infraestructure", "..\FactElectronicaV1.Infraestructure\FactElectronicaV1.Infraestructure.csproj", "{9053CE26-07D4-442B-9ABF-1F5CAE638311}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CA07EC0-85FF-4BF0-AB20-64BA7FBC5D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA07EC0-85FF-4BF0-AB20-64BA7FBC5D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA07EC0-85FF-4BF0-AB20-64BA7FBC5D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA07EC0-85FF-4BF0-AB20-64BA7FBC5D30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D04F5A3-FA16-491C-8410-F6BA3B23EABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D04F5A3-FA16-491C-8410-F6BA3B23EABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D04F5A3-FA16-491C-8410-F6BA3B23EABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D04F5A3-FA16-491C-8410-F6BA3B23EABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{074E410A-ED53-49D1-9A11-B1CC3FC005FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074E410A-ED53-49D1-9A11-B1CC3FC005FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074E410A-ED53-49D1-9A11-B1CC3FC005FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074E410A-ED53-49D1-9A11-B1CC3FC005FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9369740-5130-4500-BFE9-47CE0ADC6100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9369740-5130-4500-BFE9-47CE0ADC6100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9369740-5130-4500-BFE9-47CE0ADC6100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9369740-5130-4500-BFE9-47CE0ADC6100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73E53294-BAAA-4803-A12E-FDD1079CB55A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E53294-BAAA-4803-A12E-FDD1079CB55A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E53294-BAAA-4803-A12E-FDD1079CB55A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E53294-BAAA-4803-A12E-FDD1079CB55A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9053CE26-07D4-442B-9ABF-1F5CAE638311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9053CE26-07D4-442B-9ABF-1F5CAE638311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9053CE26-07D4-442B-9ABF-1F5CAE638311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9053CE26-07D4-442B-9ABF-1F5CAE638311}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5CA07EC0-85FF-4BF0-AB20-64BA7FBC5D30} = {74F988A1-2F81-4645-99FC-DBA82B1E8DEF}
+		{7D04F5A3-FA16-491C-8410-F6BA3B23EABF} = {CA5F7739-7DCD-4D07-AE8C-1CD69B0856E9}
+		{60F7D7BA-200E-451C-95AF-8A53CF241F72} = {CD892526-D0D1-4841-92DB-36F10814D327}
+		{2CF6653E-E207-40D5-9472-5A692364774B} = {CD892526-D0D1-4841-92DB-36F10814D327}
+		{074E410A-ED53-49D1-9A11-B1CC3FC005FB} = {60F7D7BA-200E-451C-95AF-8A53CF241F72}
+		{C9369740-5130-4500-BFE9-47CE0ADC6100} = {2CF6653E-E207-40D5-9472-5A692364774B}
+		{73E53294-BAAA-4803-A12E-FDD1079CB55A} = {8F62A32E-EB0A-44C9-AC21-42972DBAFEBD}
+		{9053CE26-07D4-442B-9ABF-1F5CAE638311} = {A762630C-BAF0-41FD-ADF6-C2C0648F4234}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4966BBF5-5F30-4BEE-B2F7-E05EF9A70498}
+	EndGlobalSection
+EndGlobal

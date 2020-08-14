@@ -1,0 +1,6 @@
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.Infraestructure\bin\Debug\FactElectronicaV1.Infraestructure.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.Infraestructure\bin\Debug\FactElectronicaV1.Infraestructure.pdb
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.Infraestructure\obj\Debug\FactElectronicaV1.Infraestructure.csprojAssemblyReference.cache
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.Infraestructure\obj\Debug\FactElectronicaV1.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.Infraestructure\obj\Debug\FactElectronicaV1.Infraestructure.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.Infraestructure\obj\Debug\FactElectronicaV1.Infraestructure.pdb

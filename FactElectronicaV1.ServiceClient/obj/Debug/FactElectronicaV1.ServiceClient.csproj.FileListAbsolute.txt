@@ -1,0 +1,90 @@
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\FactElectronicaV1.ServiceClient.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\FactElectronicaV1.ServiceClient.pdb
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\obj\Debug\FactElectronicaV1.ServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\obj\Debug\FactElectronicaV1.ServiceClient.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\obj\Debug\FactElectronicaV1.ServiceClient.pdb
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\FactElectronicaV1.BusinessLogic.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\FactElectronicaV1.Entities.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.Helpers.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.Mvc.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.Razor.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.WebPages.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\Unity.Abstractions.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\Unity.Container.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\FactElectronicaV1.DataAccess.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\FactElectronicaV1.BusinessLogic.pdb
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\FactElectronicaV1.Entities.pdb
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.Helpers.xml
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.Mvc.xml
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.Razor.xml
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.WebPages.xml
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\Unity.Abstractions.pdb
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\Unity.Container.pdb
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\FactElectronicaV1.DataAccess.pdb
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\es\System.Web.Helpers.resources.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\obj\Debug\FactElectronicaV1.ServiceClient.csprojAssemblyReference.cache
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.ServiceClient\obj\Debug\FactElectronicaV1.ServiceClient.csproj.CopyComplete
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\FactElectronicaV1.ServiceClient.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\FactElectronicaV1.ServiceClient.pdb
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\FactElectronicaV1.BusinessLogic.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\FactElectronicaV1.Entities.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.Helpers.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.Mvc.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.Razor.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.WebPages.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\Unity.Abstractions.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\Unity.Container.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\FactElectronicaV1.DataAccess.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\FactElectronicaV1.BusinessLogic.pdb
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\FactElectronicaV1.Entities.pdb
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.Helpers.xml
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.Mvc.xml
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.Razor.xml
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.WebPages.xml
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\Unity.Abstractions.pdb
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\Unity.Container.pdb
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\FactElectronicaV1.DataAccess.pdb
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\es\System.Web.Helpers.resources.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\obj\Debug\FactElectronicaV1.ServiceClient.csprojAssemblyReference.cache
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\obj\Debug\FactElectronicaV1.ServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\obj\Debug\FactElectronicaV1.ServiceClient.csproj.CopyComplete
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\obj\Debug\FactElectronicaV1.ServiceClient.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.ServiceClient\obj\Debug\FactElectronicaV1.ServiceClient.pdb

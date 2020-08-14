@@ -1,0 +1,12 @@
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.Entities\bin\Debug\FactElectronicaV1.Entities.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.Entities\bin\Debug\FactElectronicaV1.Entities.pdb
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.Entities\obj\Debug\FactElectronicaV1.Entities.csprojAssemblyReference.cache
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.Entities\obj\Debug\FactElectronicaV1.Entities.csproj.CoreCompileInputs.cache
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.Entities\obj\Debug\FactElectronicaV1.Entities.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.Entities\obj\Debug\FactElectronicaV1.Entities.pdb
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.Entities\bin\Debug\FactElectronicaV1.Entities.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.Entities\bin\Debug\FactElectronicaV1.Entities.pdb
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.Entities\obj\Debug\FactElectronicaV1.Entities.csprojAssemblyReference.cache
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.Entities\obj\Debug\FactElectronicaV1.Entities.csproj.CoreCompileInputs.cache
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.Entities\obj\Debug\FactElectronicaV1.Entities.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.Entities\obj\Debug\FactElectronicaV1.Entities.pdb

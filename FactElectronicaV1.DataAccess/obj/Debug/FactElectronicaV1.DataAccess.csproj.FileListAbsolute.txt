@@ -1,0 +1,40 @@
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.DataAccess\bin\Debug\FactElectronicaV1.DataAccess.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.DataAccess\bin\Debug\FactElectronicaV1.DataAccess.pdb
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.DataAccess\obj\Debug\FactElectronicaV1.DataAccess.csprojAssemblyReference.cache
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.DataAccess\obj\Debug\FactElectronicaV1.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.DataAccess\obj\Debug\FactElectronicaV1.DataAccess.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.DataAccess\obj\Debug\FactElectronicaV1.DataAccess.pdb
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.DataAccess\bin\Debug\FactElectronicaV1.Entities.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.DataAccess\bin\Debug\Unity.Abstractions.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.DataAccess\bin\Debug\Unity.Container.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.DataAccess\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.DataAccess\bin\Debug\FactElectronicaV1.Entities.pdb
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.DataAccess\bin\Debug\Unity.Abstractions.pdb
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.DataAccess\bin\Debug\Unity.Container.pdb
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.DataAccess\obj\Debug\FactElectronicaV1.DataAccess.csproj.CopyComplete
+C:\Users\WhalyAF\source\repos\FactElectronicaV1.DataAccess\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.DataAccess\bin\Debug\FactElectronicaV1.DataAccess.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.DataAccess\bin\Debug\FactElectronicaV1.DataAccess.pdb
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.DataAccess\bin\Debug\FactElectronicaV1.Entities.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.DataAccess\bin\Debug\Unity.Abstractions.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.DataAccess\bin\Debug\Unity.Container.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.DataAccess\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.DataAccess\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.DataAccess\bin\Debug\FactElectronicaV1.Entities.pdb
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.DataAccess\bin\Debug\Unity.Abstractions.pdb
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.DataAccess\bin\Debug\Unity.Container.pdb
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.DataAccess\obj\Debug\FactElectronicaV1.DataAccess.csprojAssemblyReference.cache
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.DataAccess\obj\Debug\FactElectronicaV1.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.DataAccess\obj\Debug\FactElectronicaV1.DataAccess.csproj.CopyComplete
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.DataAccess\obj\Debug\FactElectronicaV1.DataAccess.dll
+C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.DataAccess\obj\Debug\FactElectronicaV1.DataAccess.pdb
