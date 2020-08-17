@@ -84,3 +84,44 @@ C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.BusinessLogi
 C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.BusinessLogic\obj\Debug\FactElectronicaV1.BusinessLogic.csproj.CopyComplete
 C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.BusinessLogic\obj\Debug\FactElectronicaV1.BusinessLogic.dll
 C:\Users\WhalyAF\Desktop\backup factelectronicav1\FactElectronicaV1.BusinessLogic\obj\Debug\FactElectronicaV1.BusinessLogic.pdb
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\FactElectronicaV1.BusinessLogic.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\FactElectronicaV1.BusinessLogic.pdb
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\FactElectronicaV1.DataAccess.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\FactElectronicaV1.Entities.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\System.Web.Helpers.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\System.Web.Mvc.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\System.Web.Razor.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\System.Web.WebPages.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\System.Web.WebPages.Razor.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\Microsoft.Practices.Unity.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\FactElectronicaV1.DataAccess.pdb
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\FactElectronicaV1.Entities.pdb
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\System.Web.Helpers.xml
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\System.Web.Mvc.xml
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\System.Web.Razor.xml
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\System.Web.WebPages.xml
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\System.Web.WebPages.Razor.xml
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\Unity.Abstractions.pdb
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\Unity.Container.pdb
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\es\System.Web.Helpers.resources.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\es\System.Web.Mvc.resources.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\es\System.Web.Razor.resources.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\es\System.Web.WebPages.resources.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\obj\Debug\FactElectronicaV1.BusinessLogic.csprojAssemblyReference.cache
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\obj\Debug\FactElectronicaV1.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\obj\Debug\FactElectronicaV1.BusinessLogic.csproj.CopyComplete
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\obj\Debug\FactElectronicaV1.BusinessLogic.dll
+D:\GITHUB\Efact desde github\wheiserapaza\FactElectronicaV1.BusinessLogic\obj\Debug\FactElectronicaV1.BusinessLogic.pdb
